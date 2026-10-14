@@ -103,3 +103,6 @@ Der Zugriff auf die AWS-Lightsail-Konsole konnte aus der aktuellen Sitzung nicht
 ## Verknüpfte Übergabe
 
 Siehe [`HANDOFF.md`](HANDOFF.md) für den kompakten Projektstand, bestätigte Entscheidungen und die noch offenen Voraussetzungen.
+
+**Assistent (Ergebnis, 2026-10-14):**
+> Der sichtbare Gesprächsverlauf und die kompakte KI-Übergabe wurden im privaten GitHub-Repository unter `context/CONVERSATION.md` und `context/HANDOFF.md` abgelegt. Der kanonische Repository-Name ist [manuelpicard/server](https://github.com/manuelpicard/server); der zuvor verwendete Pfad `makopipokam/picast-server` wird von GitHub dorthin weitergeleitet.
