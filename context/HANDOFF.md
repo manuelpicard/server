@@ -15,7 +15,7 @@ Der Nutzer hat ausdrücklich zugestimmt:
 Diese Entscheidung ist eine Bestätigung des Tarifs, **kein Nachweis, dass eine Instanz bereits erstellt wurde**.
 
 ## Bestehendes GitHub-Projekt
-Privates Repository: [makopipokam/picast-server](https://github.com/makopipokam/picast-server)
+Privates Repository: [manuelpicard/server](https://github.com/manuelpicard/server). GitHub leitet den früheren Namen `makopipokam/picast-server` auf diesen kanonischen Namen um.
 
 - Branch: `main`
 - Scaffold-Commit: `e4efdce` (`Initialize picast.com Frankfurt hosting scaffold`)
